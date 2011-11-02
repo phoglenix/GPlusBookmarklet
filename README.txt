@@ -17,3 +17,5 @@ The box will not disappear after sharing because I have no way of determining wh
  from outside the frame. You'll just have to click Close.
 
 Written by Glen on 2 Nov 2011
+
+<html><body><a href="https://raw.github.com/phoglenix/GPlusBookmarklet/master/gplusbookmarklet.js">Test</a></body></html>
