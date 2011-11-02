@@ -3,6 +3,13 @@ This is a little bookmarklet I created to mimic the "Note in Reader" bookmarklet
 Inspiration taken from:
  http://www.techlifeweb.com/2011/08/12/share-googleplus-cross-browser-bookmarklet/
 
+To use:
+1. Create a new bookmark.
+2. Copy the code from:
+ https://raw.github.com/phoglenix/GPlusBookmarklet/master/gplusbookmarklet.js
+ into the "URL" or "Location" field of the bookmark.
+3. Share away!
+
 Notes:
 It says "You publicly +1'd this" but it is NOT true. It doesn't actually +1 anything. You have to
  actively share things to use it.
