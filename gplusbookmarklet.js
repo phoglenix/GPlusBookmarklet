@@ -8,7 +8,7 @@ if(b&&!document.xmlVersion){
   z.style.top='30px';
   z.style.right='10px';
   z.style.width='500px';
-  z.style.height='300px';
+  z.style.height='500px';
   z.style.background='white';
   z.style.border='2px inset';
   z.style.zIndex='998';
